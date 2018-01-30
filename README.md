@@ -9,3 +9,7 @@ Used Technologies = MERN STACK, Google OAuth, Stripe, Heroku, Sendgrid, mLab, Re
 
 Demo Link = https://e-feedback.herokuapp.com/
 
+Test card numbers and tokens= https://stripe.com/docs/testing#cards
+For example: 4242 4242 4242 4242	Visa(can be used)
+
+
